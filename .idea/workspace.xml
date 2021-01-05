@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52e9e516-3ca2-450f-8911-290a902f4949" name="Default Changelist" comment="" />
+    <list default="true" id="52e9e516-3ca2-450f-8911-290a902f4949" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,8 +18,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JupyterTrust" id="1beabe4c-dcae-4a96-9f6e-38cafdbb1eb0" />
   <component name="ProjectId" id="1l9y7JjRXWCzomuPIlLKvaAlBZ6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,10 +31,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.pyqt_experiments">
+  <component name="RunManager" selected="Python tests.Unittests in test_stock_displayer.py">
     <configuration name="pyqt_experiments" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="StockTracker" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,8 +90,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.pyqt_experiments" />
         <item itemvalue="Python tests.Unittests in test_stock_displayer.py" />
+        <item itemvalue="Python.pyqt_experiments" />
         <item itemvalue="Python tests.Unittests in test_stock_ingester.py" />
       </list>
     </recent_temporary>
@@ -98,11 +106,36 @@
       <updated>1607023432783</updated>
       <workItem from="1607023469693" duration="198000" />
       <workItem from="1607452428137" duration="681000" />
-      <workItem from="1607627850007" duration="1008000" />
+      <workItem from="1607627850007" duration="2139000" />
+      <workItem from="1609871785418" duration="622000" />
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="588" y="354" key="Github.ShareDialog" timestamp="1607629263347">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="588" y="354" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1607629263347" />
+    <state x="503" y="162" key="Github.UntrackedFilesDialog" timestamp="1607629271015">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="503" y="162" key="Github.UntrackedFilesDialog/0.0.1440.900@0.0.1440.900" timestamp="1607629271015" />
+    <state width="586" height="245" key="GridCell.Tab.0.bottom" timestamp="1609871985468">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="586" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1609871985468" />
+    <state width="586" height="245" key="GridCell.Tab.0.center" timestamp="1609871985461">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="586" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1609871985461" />
+    <state width="586" height="245" key="GridCell.Tab.0.left" timestamp="1609871985458">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="586" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1609871985458" />
+    <state width="586" height="245" key="GridCell.Tab.0.right" timestamp="1609871985464">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="586" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1609871985464" />
     <state x="308" y="200" key="IDE.errors.dialog" timestamp="1607628666223">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -113,6 +146,8 @@
     <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1607628625067" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/StockTracker$Unittests_in_test_stock_ingester_py.coverage" NAME="Unittests in test_stock_ingester.py Coverage Results" MODIFIED="1607628923446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../StockTracker_Ingester" />
+    <SUITE FILE_PATH="coverage/StockTracker$pyqt_experiments.coverage" NAME="pyqt_experiments Coverage Results" MODIFIED="1607629652465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../StockTracker_Ingester" />
+    <SUITE FILE_PATH="coverage/StockTracker$Unittests_in_test_stock_ingester_py.coverage" NAME="Unittests in test_stock_ingester.py Coverage Results" MODIFIED="1607628994372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../StockTracker_Ingester" />
+    <SUITE FILE_PATH="coverage/StockTracker$Unittests_in_test_stock_displayer_py.coverage" NAME="Unittests in test_stock_displayer.py Coverage Results" MODIFIED="1609871985408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../StockTracker_Ingester" />
   </component>
 </project>
